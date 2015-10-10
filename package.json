@@ -1,0 +1,21 @@
+{
+
+  "name": "avdown",
+
+  "author": "Bodo Kaiser <i@bodokaiser.io>",
+
+  "license": "MIT",
+
+  "version": "0.0.0",
+
+  "description": "Uses kernel averaging to downsample image arrays.",
+
+  "main": "lib/index.js",
+
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+
+  "repository": "git://github.com/bodokaiser/avdown"
+
+}
